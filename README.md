@@ -60,5 +60,5 @@
 
 ---
 
-**To the game admin for Fisch** *(yes, I'm talking to you "[16732694052](https://www.roblox.com/games/16732694052)" and "[WoozyNate](https://www.roblox.com/users/146089324)")*, this is not intended to cause any issues, and I hope you won’t ban me for providing this tool.  
+**To the game admin for Fisch** *(yes, I'm talking to you "[[UPD] Fisch](https://www.roblox.com/games/16732694052)" and "[WoozyNate](https://www.roblox.com/users/146089324)")*, this is not intended to cause any issues, and I hope you won’t ban me for providing this tool.  
 I am not distributing or sharing the software—users find and use it on their own. I am just the creator. Once again, responsibility lies with the users.
