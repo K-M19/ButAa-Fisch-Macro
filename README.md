@@ -21,17 +21,7 @@
 - Play Roblox in windowed mode and always open Roblox before starting the macro to help it correctly detect your game window.  
 - You don't need to download AutoHotKey to run macros, just run the software directly.
 
-## Download and Usage
-
-### Download: [latest version](wait)  
-
-#### Menu
-
-- **F5**: To Start  
-- **F6**: To Menu/Fix Macro  
-- **F8**: To Exit  
-
-## Recommended Rods/Enchantments
+## Recommended Rods/Enchanting
 
 *(Here’s a suggested list while I work on integrating API usage. Feel free to follow it if you want.)*
 
@@ -40,8 +30,33 @@
 - **Trident** | Resilient or Hasty  
 - **Sunken** | Resilient or Hasty  
 - **The Depths** | Resilient or Hasty  
-- **No-Life Rod** | Any Enchant (:/ Why do you even need a macro for this?)  
+- **No-Life Rod** | Any Enchant ( :L Why do you even need a macro for this? )  
 - **Craftable Rods**... *(I still need to test and verify these)*  
+
+## Download and Usage
+### Download: [latest version](wait)  
+### [Update](wait)  
+
+#### Menu
+
+- **F5**: To Start  
+- **F6**: To Menu/Fix Macro  
+- **F8**: To Exit  
+
+#### Mode
+- **Click**: I recommend you to use this mode to do it because it is safe and less error prone.
+- **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using.).
+
+#### Steps to Take
+- Turn off "Shift Lock" in roblox settings
+- Have your character look out to sea or the fishing spot you want.
+- Select the fishing rod you want to use (preferably from the list).
+- Turn on camera-Mode in the top right corner.
+- F5 to start.
+
+#### Architecture: X64 and X32
+- X64 = 64Bit
+- X32 = 32Bit
 
 ---
 
