@@ -35,7 +35,7 @@
 
 ## Download and Usage
 ### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.1.0/Fisch.Macro.Dev-3.1.0.zip)  
-### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update/Update)  
+### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update)  
 
 #### Menu
 
