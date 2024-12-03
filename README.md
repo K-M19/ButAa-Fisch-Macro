@@ -34,7 +34,7 @@
 - **Craftable Rods**... *(I still need to test and verify these)*  
 
 ## Download and Usage
-### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.0.1/Roblox-Fisch-Macro.3.0.1.zip)  
+### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.1.0/Fisch.Macro.Dev-3.1.0.zip)  
 ### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update/Update)  
 
 #### Menu
