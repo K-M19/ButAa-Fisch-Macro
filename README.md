@@ -34,8 +34,8 @@
 - **Craftable Rods**... *(I still need to test and verify these)*  
 
 ## Download and Usage
-### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.1.0/Fisch.Macro.Dev-3.1.0.zip)  
-### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update)  
+### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.2.1/Fisch.Macro.Dev-3.2.1.zip)  
+### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu
 
@@ -45,7 +45,8 @@
 
 #### Mode
 - **Click**: I recommend you to use this mode to do it because it is safe and less error prone.
-- **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using.).
+- **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using).
+- **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using).
 
 #### Steps to Take
 - Turn off "Shift Lock" in roblox settings
@@ -53,10 +54,6 @@
 - Select the fishing rod you want to use (preferably from the list).
 - Turn on camera-Mode in the top right corner.
 - F5 to start.
-
-#### Architecture: X64 and X32
-- X64 = 64Bit
-- X32 = 32Bit
 
 ---
 
