@@ -46,7 +46,7 @@
 #### Mode
 - **Click**: I recommend you to use this mode to do it because it is safe and less error prone.
 - **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using).
-- **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using).
+- **Shake only**: If you just want to Shake and fish by yourself.
 
 #### Steps to Take
 - Turn off "Shift Lock" in roblox settings
