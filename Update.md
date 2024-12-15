@@ -1,3 +1,10 @@
+## Update Log (Dev 3.3.2)
+### New Features
+- Fisheye balance for all Fishing Rods
+- Add (Steady Rod|Resilient-Forgotten Fang|Any Enchant-Eternal King|Any Enchant-Krampus|Resilient)
+### Bug Fixes
+- Fixed some rare bugs(2/2).
+
 ## Update Log (Dev 3.2.1)
 ### New Features
 - Fisheye balance for fishing rod

@@ -27,16 +27,20 @@
 
 ## Recommended Rods/Enchanting
 *(Here’s a suggested list while I work on integrating API usage. Feel free to follow it if you want.)*
+- **Steady** | Resilient ( 
 - **Mythical** | Resilient  
 - **Aurora** | Resilient  
+- **Krampus** | Resilient
 - **Trident** | Resilient or Hasty  
 - **Sunken** | Resilient or Hasty  
 - **The Depths** | Resilient or Hasty  
+- **Eternal King** | Any Enchant
 - **No-Life Rod** | Any Enchant ( :L Why do you even need a macro for this? )  
-- **Craftable Rods**... *(I still need to test and verify these)*  
+- **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
+
 
 ## Download and Usage
-### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.2.1/Fisch.Macro.Dev-3.2.1.zip)  
+### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
 ### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu
