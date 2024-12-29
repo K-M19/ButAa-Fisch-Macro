@@ -38,9 +38,12 @@
 - **No-Life Rod** | Any Enchant ( :L Why do you even need a macro for this? )  
 - **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
 
+## FOV Menu (Version 4.0)
+<img src="img/1.png">
 
 ## Download and Usage
-### Download: [latest version](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
+### Download: <a href="macro/ButAa.Fisch-Macro(Alpha-AB_4.0).zip" download>Latest Version 4.0</a>
+### Download: <a href="macro/Fisch.Macro.Dev-3.3.2.zip" download>Old Version 3.3.2</a>
 ### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu

@@ -1,3 +1,10 @@
+## Update Log (Alpha AB-4.0)
+### New Features
+- New UI
+- More options
+- Fixed 12 rare bugs
+- Comprehensive upgrade!!
+
 ## Update Log (Dev 3.3.2)
 ### New Features
 - Fisheye balance for all Fishing Rods
