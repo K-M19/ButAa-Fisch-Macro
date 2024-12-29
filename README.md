@@ -42,8 +42,8 @@
 <img src="img/1.png">
 
 ## Download and Usage
-### Download: <a href="macro/ButAa.Fisch-Macro(Alpha-AB_4.0).zip" download>Latest Version 4.0</a>
-### Download: <a href="macro/Fisch.Macro.Dev-3.3.2.zip" download>Old Version 3.3.2</a>
+### Download: [Latest Version 4.0](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
+### Download: [Old Version 3.3.2](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
 ### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu
