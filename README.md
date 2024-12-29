@@ -39,10 +39,10 @@
 - **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
 
 ## FOV Menu (Version 4.0)
-<img src="img/1.png">
+<img src="https://raw.githubusercontent.com/K-M19/Roblox-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
-### Download: [Latest Version 4.0](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
+### Download: [Latest Version 4.0](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/4.0.0/ButAa.Fisch-Macro.Alpha-AB_4.0.zip)  
 ### Download: [Old Version 3.3.2](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
 ### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update.md)  
 
