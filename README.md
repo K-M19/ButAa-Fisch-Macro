@@ -18,7 +18,6 @@
 
 ----
 
-## ButAa Fisch-Macro
 - The macro is simply a tool for idle fishing; it cannot replace human precision.  
 - The macro is currently in beta, in its Dev version.  
 - Any risks involved are your responsibility.  
