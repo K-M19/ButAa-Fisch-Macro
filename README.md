@@ -1,4 +1,24 @@
-# Roblox-Fisch-Macro
+<p align="center">
+    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/IMG.png" width="450">
+</p>
+
+<div align="center">
+
+[![License][shield-repo-license]][repo-license]
+[![Version][shield-repo-latest]][repo-latest]
+
+
+</div>
+
+[shield-repo-license]:  https://img.shields.io/github/license/K-M19/ButAa-Fisch-Macro
+[shield-repo-latest]:   https://img.shields.io/github/v/release/K-M19/ButAa-Fisch-Macro
+
+[repo-license]:  https://github.com/K-M19/ButAa-Fisch-Macro/blob/main/LICENSE
+[repo-latest]:   https://github.com/K-M19/ButAa-Fisch-Macro/releases/latest
+
+----
+
+## ButAa Fisch-Macro
 - The macro is simply a tool for idle fishing; it cannot replace human precision.  
 - The macro is currently in beta, in its Dev version.  
 - Any risks involved are your responsibility.  
@@ -39,12 +59,12 @@
 - **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
 
 ## FOV Menu (Version 4.0)
-<img src="https://raw.githubusercontent.com/K-M19/Roblox-Fisch-Macro/refs/heads/main/IMG/1.png">
+<img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
-### Download: [Latest Version 4.0](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/4.0.0/ButAa.Fisch-Macro.Alpha-AB_4.0.zip)  
-### Download: [Old Version 3.3.2](https://github.com/K-M19/Roblox-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
-### Log: [Update](https://github.com/K-M19/Roblox-Fisch-Macro/blob/main/Update.md)  
+### Download: [Latest Version 4.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/4.0.0/ButAa.Fisch-Macro.Alpha-AB_4.0.zip)  
+### Download: [Old Version 3.3.2](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
+### Log: [Update](https://github.com/K-M19/ButAa-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu
 - **F5**: To Start  
@@ -62,7 +82,13 @@
 - Select the fishing rod you want to use (preferably from the list).
 - Turn on camera-Mode in the top right corner.
 - F5 to start.
+---
 
+## Thank you
+> ### Tester: @jhonlymen, @momo041051, @Natsumi(fuzuki_natsumi), @B.T(k.btyep)
+
+> ### Inspiration: @Bplao, @cweamya
+#### Thank you to everyone who currently uses the macro! You guys are amazing!
 ---
 
 **To the game admin for Fisch** *(yes, I'm talking to you "[[UPD] Fisch](https://www.roblox.com/games/16732694052)" and "[WoozyNate](https://www.roblox.com/users/146089324)")*, this is not intended to cause any issues, and I hope you won’t ban me for providing this tool.  
