@@ -46,7 +46,7 @@
 
 ## Recommended Rods/Enchanting
 *(Here’s a suggested list while I work on integrating API usage. Feel free to follow it if you want.)*
-- **Steady** | Resilient ( 
+- **Steady** | Resilient 
 - **Mythical** | Resilient  
 - **Aurora** | Resilient  
 - **Krampus** | Resilient
@@ -54,6 +54,7 @@
 - **Sunken** | Resilient or Hasty  
 - **The Depths** | Resilient or Hasty  
 - **Eternal King** | Any Enchant
+- **Heaven's** | Resilient or Hasty 
 - **No-Life Rod** | Any Enchant ( :L Why do you even need a macro for this? )  
 - **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
 
@@ -61,8 +62,8 @@
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
-### Download: [Latest Version 4.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/4.0.0/ButAa.Fisch-Macro.Alpha-AB_4.0.zip)  
-### Download: [Old Version 3.3.2](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/3.3.2/Fisch.Macro.Dev-3.3.2.zip)  
+### Alpha New-UI: [Version 4.1.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/4.1.0/ButAa.Fisch-Macro.Alpha.4.1.0.zip)  
+### Legacy: [Version 3.4.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/4.1.0/ButAa.Fisch-Macro.Legacy-Dev.3.4.0.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu

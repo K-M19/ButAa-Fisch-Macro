@@ -1,3 +1,7 @@
+## Update Log (Alpha 4.1.0) & (Legacy 3.4.0)
+- Add **Heaven's** | Resilient or Hasty 
+- Upgrade Fisheye
+- Fixed random crash macro 
 ## Update Log (Alpha AB-4.0)
 ### New Features
 - New UI
