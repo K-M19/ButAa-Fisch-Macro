@@ -3,8 +3,8 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/W-Theme.png#gh-dark-mode-only" width="420">
-    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/B-Theme.png#gh-light-mode-only" width="420">
+    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
+    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">
 </p>
 
 <div align="center">
