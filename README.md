@@ -65,8 +65,8 @@
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
-### Alpha New-UI: [Version 4.1.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/4.1.0/ButAa.Fisch-Macro.Alpha.4.1.0.zip)  
-### Legacy: [Version 3.4.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/4.1.0/ButAa.Fisch-Macro.Legacy-Dev.3.4.0.zip)  
+### Download: [Version V.41.2](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/41.2/ButAa.Fisch-Macro.V.41.2.zip)  
+
 ### Log: [Update](https://github.com/K-M19/ButAa-Fisch-Macro/blob/main/Update.md)  
 
 #### Menu
