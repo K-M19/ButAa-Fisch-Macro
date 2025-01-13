@@ -1,5 +1,10 @@
+> [!Note]
+> I will stop the Update macro and there will be rare updates in the future, because I am no longer interested in the game "Fisch". Version ButAa.Fisch-Macro(V.41.2) may be the final version. Have a nice day!!
+
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/IMG.png" width="450">
+    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/W-Theme.png#gh-dark-mode-only" width="420">
+    <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/B-Theme.png#gh-light-mode-only" width="420">
 </p>
 
 <div align="center">
@@ -17,7 +22,7 @@
 [repo-latest]:   https://github.com/K-M19/ButAa-Fisch-Macro/releases/latest
 
 ----
-
+###
 - The macro is simply a tool for idle fishing; it cannot replace human precision.  
 - The macro is currently in beta, in its Dev version.  
 - Any risks involved are your responsibility.  
@@ -46,8 +51,6 @@
 
 ## Recommended Rods/Enchanting
 *(Here’s a suggested list while I work on integrating API usage. Feel free to follow it if you want.)*
-- **Steady** | Resilient 
-- **Mythical** | Resilient  
 - **Aurora** | Resilient  
 - **Krampus** | Resilient
 - **Trident** | Resilient or Hasty  
@@ -58,7 +61,7 @@
 - **No-Life Rod** | Any Enchant ( :L Why do you even need a macro for this? )  
 - **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
 
-## FOV Menu (Version 4.0)
+## FOV Menu
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
@@ -73,8 +76,8 @@
 
 #### Mode
 - **Click**: I recommend you to use this mode to do it because it is safe and less error prone.
-- **UI-Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using).
-- **Shake only**: If you just want to Shake and fish by yourself.
+- **Navigation**: I do not recommend using this mode because it is error prone(Please enable "UI Navigation Toggle" in roblox settings before using).
+- **Shake**: If you just want to Shake and fish by yourself.
 
 #### Steps to Take
 - Turn off "Shift Lock" in roblox settings

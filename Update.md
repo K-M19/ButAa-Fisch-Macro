@@ -1,3 +1,7 @@
+## Update Log (V.41.2)
+- Fixed Shake Delay
+- Remove Rods mode (Steady, Mythical)
+
 ## Update Log (Alpha 4.1.0) & (Legacy 3.4.0)
 - Add **Heaven's** | Resilient or Hasty 
 - Upgrade Fisheye
