@@ -1,5 +1,3 @@
-> [!Note]
-> I will stop the Update macro and there will be rare updates in the future, because I am no longer interested in the game "Fisch". Version ButAa.Fisch-Macro(V.41.2) may be the final version. Have a nice day!!
 
 
 <p align="center">
