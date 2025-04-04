@@ -1,3 +1,20 @@
+## Update Log (V.42.0)
+- Version 42.0 is a slight performance upgrade.
+- AutoMatic, improved to detect player rods faster and support more languages[Thank @momo041051 to help languages,Debug].
+- Macro is no longer supported on Windows 7/8.1, please upgrade to version 10/11 to continue using.
+- The latest Rods will be updated in the next update, I recommend you to use AutoMatic mode.
+### AutoMatic mode
+- Fisheye sensitivity upgrade, requires game to be above 60FPS for best performance.
+- AutoMatic Will require windows 10/11 or later to work.
+- AutoMatic No longer requires an exact fisheye image, but simply detects familiar or listed images in the data.
+### DRM
+- C.P.P (Comprehensive Protection Program), outdated and upgraded to speed up code reading and increase accuracy rate over the old version.
+- C.P.P will be renamed to "Bitraven" to be more modern, and more focused and encrypted with 21% strength like Denuvo strength.
+- Bitraven will not work with older operating systems like 7/8.1.
+### Fisheye
+- Upgrade to bring accuracy and 20% delay reduction compared to the old version, but this only works best if the game is above 60FPS.
+
+
 ## Update Log (V.41.2)
 - Fixed Shake Delay
 - Remove Rods mode (Steady, Mythical)
