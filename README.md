@@ -18,6 +18,9 @@
 [repo-latest]:   https://github.com/K-M19/ButAa-Fisch-Macro/releases/latest
 
 ----
+> [!NOTE]  
+> Macro is no longer supported on Windows 7/8/8.1, please upgrade to version 10/11 to continue using.
+----
 ###
 - The macro is simply a tool for idle fishing; it cannot replace human precision.  
 - The macro is currently in beta, in its Dev version.  
