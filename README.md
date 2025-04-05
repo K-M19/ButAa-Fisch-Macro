@@ -54,14 +54,19 @@
 - **The Depths** | Resilient or Hasty  
 - **Eternal King** | Any Enchant
 - **Heaven's** | Resilient or Hasty 
-- **No-Life Rod** | Any Enchant ( :L Why do you even need a macro for this? )  
-- **Forgotten Fang** | Any Enchant ( :L Why do you even need a macro for this? )  
+- **No-Life Rod** | Any Enchant
+- **Forgotten Fang** | Any Enchant
+- **Brick Rod** | Any Enchant
+- **Champions Rod** | Any Enchant
+- **The Exalted One** | Any Enchant
+- **Seraphic Rod** | Any Enchant
+- **Rod Of The Zenith** | Any Enchant
 
 ## FOV Menu
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
-### Download: [Version V.42.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/42.0/ButAa.Fisch-Macro.V.42.0.zip)  
+### Download: [Version V.42.1](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/42.1/ButAa.Fisch-Macro.V.42.1.zip)  
 
 ### Log: [Update](https://github.com/K-M19/ButAa-Fisch-Macro/blob/main/Update.md)  
 

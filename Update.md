@@ -1,6 +1,20 @@
+## Update Log (V.42.1)
+### Rods
+- Add Brick Rod.
+- Add Champions Rod.
+- Add The Exalted One.
+- Add Seraphic Rod.
+- Add Rod Of The Zenith.
+> Balance Rods by @momo041051 (Thanks Dude👍👍👍)
+### Fisch.ExE
+- Fixed "Fisch.ExE" API not Found.
+### AutoMatic
+- Balance.
+### Really sorry, for this bug I did not detect earlier ("Fisch.ExE" API not Found).
+
 ## Update Log (V.42.0)
 - Version 42.0 is a slight performance upgrade.
-- AutoMatic, improved to detect player rods faster and support more languages[Thank @momo041051 to help languages,Debug].
+- AutoMatic, improved to detect player rods faster and support more languages [Thank @momo041051 to help languages,Debug].
 - Macro is no longer supported on Windows 7/8.1, please upgrade to version 10/11 to continue using.
 - The latest Rods will be updated in the next update, I recommend you to use AutoMatic mode.
 ### AutoMatic mode
