@@ -1,3 +1,8 @@
+## Update Log (V.43.0)
+- Focus on upgrading the speed of running Macro.
+- Bitraven Tech 7.6, upgraded computing power and new base support
+### And fix many bugs from Bitraven on the system 21h1, 22h2, 23h1.
+
 ## Update Log (V.42.1)
 ### Rods
 - Add Brick Rod.

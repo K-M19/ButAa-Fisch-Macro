@@ -18,7 +18,7 @@
 [repo-latest]:   https://github.com/K-M19/ButAa-Fisch-Macro/releases/latest
 
 ----
-> [!NOTE]  
+> [!WARNING]  
 > Macro is no longer supported on Windows 7/8/8.1, please upgrade to version 10/11 to continue using.
 ----
 ###
@@ -42,10 +42,7 @@
 - You don't need to download AutoHotKey to run macros, just run the software directly.
 
 ## Virus Detection & DRM(Bitraven)
-- First of all, I often receive complaints and questions about this issue, most of which are along the lines of: *"Is your software a virus?"*  
-- No, my macro is not a virus. It is a compiled version created using AutoHotkey and converted into an executable (EXE) file.  
-- The reason it gets flagged as a virus by Windows Defender is that it is compressed using UPX. This causes Defender to misidentify it as malware because UPX modifies how the file's data is stored, making it harder for antivirus programs to analyze its contents. Certain characteristics of UPX compression are often mistaken as malicious behavior by these systems.  
-- Therefore, you can either completely disable Windows Defender when downloading or using the software, or add my macro's folder to the *Exclusions* list to prevent notifications or automatic deletion during its operation.  
+- First of all, I often receive complaints and questions about this issue, most of which are along the lines of: *"Is your software a virus?"*   
 - DRM(Bitraven),Maybe windows will detect the software protected by Bitraven as a virus because I focus on information security of data ".ExE or Script or open executable files like .btrv", it focuses on not being analyzed by other software or software that intends to analyze and dissect deep into the core of the software or software protected by Bitraven, so it will always be detected by windows or anti-virus software, I think this is the best way to protect my personal software from being scrutinized or cracked, there is nothing more fun than creating personal software that ensures safety for everyone but is considered a virus :C "sometimes it is a monument of honor to be considered that :D"
 
 ## Recommended Rods/Enchanting
@@ -69,7 +66,7 @@
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/1.png">
 
 ## Download and Usage
-### Download: [Version V.42.1](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/42.1/ButAa.Fisch-Macro.V.42.1.zip)  
+### Download: [Version V.43.0](https://github.com/K-M19/ButAa-Fisch-Macro/releases/download/43.0/ButAa.Fisch-Macro.V.43.0.zip)  
 
 ### Log: [Update](https://github.com/K-M19/ButAa-Fisch-Macro/blob/main/Update.md)  
 
