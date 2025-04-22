@@ -1,7 +1,18 @@
+## Update Log (V.44.0) - Last Updated
+- Change Macro library
+- Remove system _CACHE
+- Remove AutoHotKey Folder
+- Fixed bugs related to the latest Windows 11 - 24h2 (26100.3909)
+### Balance all Rods in List 
+> Balance Rods by @momo041051 (Thanks Dude👍👍👍)
+### ButAa.Fisch-Macro Will stop at version (V.44.0) - As I mentioned long ago I would no longer develop macros if I were no longer interested in the game.
+
+
 ## Update Log (V.43.0)
 - Focus on upgrading the speed of running Macro.
 - Bitraven Tech 7.6, upgraded computing power and new base support
 ### And fix many bugs from Bitraven on the system 21h1, 22h2, 23h1.
+
 
 ## Update Log (V.42.1)
 ### Rods
@@ -16,6 +27,7 @@
 ### AutoMatic
 - Balance.
 ### Really sorry, for this bug I did not detect earlier ("Fisch.ExE" API not Found).
+
 
 ## Update Log (V.42.0)
 - Version 42.0 is a slight performance upgrade.
