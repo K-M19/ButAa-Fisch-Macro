@@ -1,3 +1,6 @@
+## Update Log (V.44.1) - Last Updated
+- Fixed Icon not showing error
+
 ## Update Log (V.44.0) - Last Updated
 - Change Macro library
 - Remove system _CACHE
