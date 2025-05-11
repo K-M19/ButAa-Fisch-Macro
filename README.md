@@ -1,5 +1,5 @@
 > [!CAUTION]
-> ButAa.Fisch-Macro Will stop at version (V.44.0) - As I mentioned long ago I would no longer develop macros if I were no longer interested in the game.
+> Thank you for your interest in and use of (ButAa Fisch-Macro). I'm truly grateful for that. However, (ButAa Fisch-Macro) will no longer be supported or updated — this marks the end of the macro. Once again, thank you all
 ----
 <p align="center">
     <img src="https://raw.githubusercontent.com/K-M19/ButAa-Fisch-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
